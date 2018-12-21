@@ -1,2 +1,2 @@
-# finalsisfor
-#
+mengatasi masalah loading berulang
+halaman login
